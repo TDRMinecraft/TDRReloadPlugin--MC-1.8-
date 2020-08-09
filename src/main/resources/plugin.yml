@@ -1,0 +1,9 @@
+name: TDRReloadPlugin
+author: TDR_Minecraft
+version: tdrstudios.01
+main: de.tdrstudios.reload.ReloadPlugin
+commands:
+  reload:
+    description: Reload Command
+    permission: tdrstudios.reload
+    usage: /<command>
